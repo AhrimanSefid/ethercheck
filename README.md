@@ -8,7 +8,10 @@ python 3
 Usage:
 ```python
 git clone git@github.com:asimd/ethercheck.git
-pip3 install ethereum binascii requests time 
+pip3 install ethereum
+pip3 install binascii
+pip3 install requests
+pip3 install time 
 python3 eth.py
 ```
 

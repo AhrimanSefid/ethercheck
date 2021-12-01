@@ -7,12 +7,12 @@ python 3
 
 Usage:
 ```python
-git clone git@github.com:asimd/ethercheck.git
-pip3 install ethereum
-pip3 install binascii
-pip3 install requests
-pip3 install time 
-python3 eth.py
+git clone https://github.com/AhrimanSefid/ethercheck.git
+pip install ethereum
+pip install binascii
+pip install requests
+pip install time 
+python eth.py
 ```
 
 This tool uses Google [BigQueryDB](https://cloud.google.com/bigquery/) query results as input. 
